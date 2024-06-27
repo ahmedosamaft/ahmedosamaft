@@ -17,8 +17,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/ahmed-osama-37ba7410b/" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Osama-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.quora.com/profile/Ahmed-Osama-998" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Osama-FF6D60?style=for-the-badge&logo=Quora&logoColor=white"/></a>
+
 ### 🛠 &nbsp;Tech Stack
 ![CPP](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=flat)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-black?style=flat&logo=python)&nbsp;
