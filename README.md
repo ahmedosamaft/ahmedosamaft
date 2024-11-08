@@ -20,6 +20,7 @@
 <a href="https://www.quora.com/profile/Ahmed-Osama-998" target="_blank"><img src="https://img.shields.io/badge/-Ahmed%20Osama-FF6D60?style=for-the-badge&logo=Quora&logoColor=white"/></a>
 
 ### 🛠 &nbsp;Tech Stack
+
 ![CPP](https://img.shields.io/badge/-C++-black?logo=c%2B%2B&style=flat)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-black?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
@@ -31,7 +32,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+![ahmedosamaft's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedosamaft&theme=radical&show_icons=true&hide_border=true)
+![ahmedosamaft's Stats](https://github-readme-stats.vercel.app/api?username=ahmedosamaft&theme=radical&show_icons=true&hide_border=true&count_private=true)
 
-
-
-<img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmedosamaft&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
